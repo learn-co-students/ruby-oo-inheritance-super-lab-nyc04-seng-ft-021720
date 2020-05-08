@@ -1,9 +1,4 @@
 class Student
-    attr_accessor :new  
-    def initialize
-        @new 
-    end  
-
     def hello
       puts "Hey there! I'm so excited to learn stuff." 
     end 
